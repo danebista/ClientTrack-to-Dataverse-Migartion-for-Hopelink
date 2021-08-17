@@ -1,0 +1,25 @@
+{
+  "name": "Migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adal-node": "^0.2.1",
+    "axios": "^0.20.0",
+    "dynamics-web-api": "^1.6.12",
+    "esm": "^3.2.25",
+    "moment": "^2.29.1",
+    "msnodesqlv8": "^2.0.5",
+    "mssql": "^6.2.3",
+    "node-fetch": "^2.6.1",
+    "promise": "^8.1.0",
+    "stopwatch-node": "^1.0.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
