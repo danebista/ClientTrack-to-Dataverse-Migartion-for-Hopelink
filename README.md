@@ -1,6 +1,6 @@
 # Hopelink
 
-** This code migrates millions of data from legacy client track system to Dataverse of Microsoft for Hopelink **
+**This code migrates millions of data from legacy client track system to Dataverse of Microsoft for Hopelink**
 
 **_Setting it up_**
    
